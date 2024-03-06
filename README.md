@@ -10,5 +10,7 @@ Mainly, intersted in helping others develop computational tools they can use for
 
 
 - 📫 How to reach me: gih0004@vt.edu
+- X: [Guillian_HC](https://twitter.com/GuillianHC_)
+- LinkedIn:  https://www.linkedin.com/in/guillianhernandez/
 
 
